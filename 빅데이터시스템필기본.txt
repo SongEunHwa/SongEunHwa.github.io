@@ -1,0 +1,11 @@
+2p Cloud Watch
+클라우드 와치가 가장 돈이 많이 나옴.
+로그 파일 : 
+3p Cloud Watch 모니터링 종류
+1. Basic Monitoring 무료, 5분간격으로 데이터 수집해서 사용자에게 이벤트 발생여부
+2. 1분 간격으로 데이터 수집해서 처리해줌 Detailed Monitoring
+
+6p 경보의 3가지 상태
+
+
+/*
